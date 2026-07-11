@@ -22,6 +22,12 @@ Miscellaneous CAD files for 3D printing etc.
     <td>A badge holder with a built-in stylus for Googlers in Chicago Fulton Market, where the elevator floor selection screens are imprecise.</td>
   </tr>
   <tr>
+    <td><img width="100" height="100" style="min-width:100px;" src="Square-Coaster-Holder.png"></td>
+    <td><a href="Square-Coaster-Holder.FCStd">FCStd</a></td>
+    <td><a href="Square-Coaster-Holder.step">STEP</a></td>
+    <td>Square coaster holder.</td>
+  </tr>
+  <tr>
     <td><img width="100" height="100" src="1050-End-Cap.png"></td>
     <td><a href="1050-End-Cap.FCStd">FCStd</a></td>
     <td><a href="1050-End-Cap.step">STEP</a></td>
