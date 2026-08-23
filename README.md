@@ -22,6 +22,30 @@ Miscellaneous CAD files for 3D printing etc.
     <td>A badge holder with a built-in stylus for Googlers in Chicago Fulton Market, where the elevator floor selection screens are imprecise.</td>
   </tr>
   <tr>
+    <td><img width="100" height="100" style="min-width:100px;" src="Android-Display-Stand.png"></td>
+    <td><a href="Android-Display-Stand.FCStd">FCStd</a></td>
+    <td><a href="Android-Display-Stand.step">STEP</a></td>
+    <td>A display stand for Android figures, with slots to hold the feet.</td>
+  </tr>
+  <tr>
+    <td><img width="100" height="100" style="min-width:100px;" src="Resistor-Lead-Bending-Tool.png"></td>
+    <td><a href="Resistor-Lead-Bending-Tool.FCStd">FCStd</a></td>
+    <td><a href="Resistor-Lead-Bending-Tool.step">STEP</a></td>
+    <td>A tool for precisely bending the leads of small resistors. Fully parameterized.</td>
+  </tr>
+  <tr>
+    <td><img width="100" height="100" style="min-width:100px;" src="Cable-Hanger.png"></td>
+    <td><a href="Cable-Hanger.FCStd">FCStd</a></td>
+    <td><a href="Cable-Hanger.step">STEP</a></td>
+    <td>A wall mount for cable hanging. Fully parameterized.</td>
+  </tr>
+  <tr>
+    <td><img width="100" height="100" style="min-width:100px;" src="Cable-Tie-Pad-Round.png"></td>
+    <td><a href="Cable-Tie-Pad-Round.FCStd">FCStd</a></td>
+    <td><a href="Cable-Tie-Pad-Round.step">STEP</a></td>
+    <td>Square coaster holder.</td>
+  </tr>
+  <tr>
     <td><img width="100" height="100" style="min-width:100px;" src="Square-Coaster-Holder.png"></td>
     <td><a href="Square-Coaster-Holder.FCStd">FCStd</a></td>
     <td><a href="Square-Coaster-Holder.step">STEP</a></td>

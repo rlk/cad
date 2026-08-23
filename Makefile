@@ -10,3 +10,6 @@ all : $(PNGS)
 
 %.png : %.FCStd
 	$(UNZIP) -p $< thumbnails/Thumbnail.png > $@ && $(PNGCRUSH) -ow $@
+
+clean :
+	rm *.FCBak
