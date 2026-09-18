@@ -4,6 +4,12 @@ Miscellaneous CAD files for 3D printing etc.
 
 <table>
   <tr>
+    <td><img width="100" height="100" style="min-width:100px;" src="100mm-PCB-Vice-Jaw.png"></td>
+    <td><a href="100mm-PCB-Vice-Jaw.FCStd">FCStd</a></td>
+    <td><a href="100mm-PCB-Vice-Jaw.step">STEP</a></td>
+    <td>100mm vice jaw with 1.6mm and 2.0mm PCB slots. Turns my spare machine vice into a very very stable PCB vice.</td>
+  <tr>
+  <tr>
     <td><img width="100" height="100" style="min-width:100px;" src="Boss-Compact-Pedal-Handler.png"></td>
     <td><a href="Boss-Compact-Pedal-Handler.FCStd">FCStd</a></td>
     <td><a href="Boss-Compact-Pedal-Handler.step">STEP</a></td>
