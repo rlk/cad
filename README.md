@@ -4,6 +4,12 @@ Miscellaneous CAD files for 3D printing etc.
 
 <table>
   <tr>
+    <td><img width="100" height="100" style="min-width:100px;" src="ISO7001-Litterbox.png"></td>
+    <td><a href="ISO7001-Litterbox.FCStd">FCStd</a></td>
+    <td><a href="ISO7001-Litterbox.step">STEP</a></td>
+    <td>An ISO 7001 style sign indicating the location of the litterbox, cat scale. <a href="ISO7001-Litterbox/photo.jpg">Photo</a>.</td>
+  <tr>
+  <tr>
     <td><img width="100" height="100" style="min-width:100px;" src="100mm-PCB-Vice-Jaw.png"></td>
     <td><a href="100mm-PCB-Vice-Jaw.FCStd">FCStd</a></td>
     <td><a href="100mm-PCB-Vice-Jaw.step">STEP</a></td>
